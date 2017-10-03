@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar movie-0.0.1-SNAPSHOT.jar
